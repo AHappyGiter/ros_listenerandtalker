@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/hxt/catkin_my/talker_listener/devel -DCMAKE_INSTALL_PREFIX=/home/hxt/catkin_my/talker_listener/install -G Unix Makefiles
